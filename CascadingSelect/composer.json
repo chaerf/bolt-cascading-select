@@ -1,5 +1,5 @@
 {
-    "name": "bolt/depentatselect",
+    "name": "depentatselect",
     "description": "An extension to add cascading select as a field type within Bolt",
     "type": "bolt-extension",
     "keywords": [
